@@ -1,0 +1,47 @@
+[{
+    "id": 1,
+    "nombre": "Buzo",
+    "precio": "595",
+    "img": "imagenes/buzo.jpg"
+}, {
+    "id": 2,
+    "nombre": "camisas",
+    "precio": "360",
+    "img": "imagenes/camisas.jpg"
+}, {
+    "id": 3,
+    "nombre": "chaleco de invierno",
+    "precio": "77",
+    "img": "imagenes/chalecoInvierno.jpg"
+}, {
+    "id": 4,
+    "nombre": "guantes",
+    "precio": "600",
+    "img": "imagenes/guantes.jpg"
+}, {
+    "id": 5,
+    "nombre": "pantalon",
+    "precio": "98",
+    "img": "imagenes/pantalon.jpg"
+}, {
+    "id": 6,
+    "nombre": "sombreros",
+    "precio": "200",
+    "img": "imagenes/sombreros.jpg"
+}, {
+    "id": 7,
+    "nombre": "zapatillas Hombres",
+    "precio": "89",
+    "img": "imagenes/zapatillas.jpg"
+}, {
+    "id": 8,
+    "nombre": "Zapatillas Mujer",
+    "precio": "115",
+    "img": "imagenes/zapatillasMujer.jpg"
+},
+{
+    "id": 9,
+    "nombre": "Zapatillas unisex",
+    "precio": "225",
+    "img": "imagenes/zapatillas.jpg"
+}]
